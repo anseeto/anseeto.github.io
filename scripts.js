@@ -3,7 +3,7 @@ function loadHeader(){
     "<div class='banner'>"
         +"<div class='banner-home'>"
             +"<a class='banner-home' href='index' title='home'>"
-                +"<img style='width:50px;height:50px;padding:5px 0 5px;margin-left:3px' src='images/icons/AdamSeetoLogo_green_white' alt='HOME'></img>"
+                +"<img style='width:50px;height:50px;padding:5px 0 5px;margin-left:3px' src='images/Icons/AdamSeetoLogo_green_white' alt='HOME'></img>"
             +"<a/>"
         +"</div>"
             +"<div id='datetime' style='margin-left:10px;line-height:50px;float:left;color:white'></div>"
