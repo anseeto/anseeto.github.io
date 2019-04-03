@@ -64,3 +64,12 @@ function getDate() {
     var t = setTimeout(getDate, 1000);
 }
 
+function scrollResume(){
+    var element = document.getElementById("resume");
+    var desiredPosition = 50;
+    if(window.pageYOffset >= desiredPosition){
+        element.style.cssText = "position:fixed;top:20px;left:1%;text-decoration:none;"; 
+    } else {
+        element.style.cssText = "position:fixed;top:" + (70 - window.pageYOffset) + "px;left:1%;text-decoration:none;";  
+    } 
+}

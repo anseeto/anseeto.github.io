@@ -283,7 +283,7 @@ img {
     max-width:300px;
 }
 
-.fa {
+.fa,.fas {
     width:100%;
     text-align:center;
     font-size:32px;
