@@ -223,8 +223,8 @@ img {
 }
 
 .abouttext {
-    /*text-align:left;*/
-    text-align:right;
+    text-align:left;
+    /*text-align:right;*/
     width:100%;
 }
 
